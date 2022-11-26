@@ -1,0 +1,7 @@
+1 - Baixar e instalar Wampp server
+2 - Baixe o projeto do git e copie a pasta para o diretorio C:\xampp\htdocs\
+3 - Start as opções Apache/MySQL/FileZilla no painel do XAMPP
+4 - No seu navegador copie o link: http://localhost/phpmyadmin/
+5 - Crie a tabela "clinica" e importe o arquivo SQL "clinica" que está dentro do projeto
+6 - No seu navegador copie o link: localhost/clinica
+7 - Entre com qualquer usuario cadastrado na tabela funcionario do banco
